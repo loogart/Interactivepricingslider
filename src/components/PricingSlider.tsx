@@ -1,7 +1,7 @@
 import { useState } from "react";
-import imgAngry from "figma:asset/8446b6c6dfc1f6f70e9b4e5c5baba2750c662003.png";
-import imgNeutral from "figma:asset/37d0b75c5b9370e8b3a1da3fbd986f6616044aa7.png";
-import imgHappy from "figma:asset/a3d3ceaf2175ec569ecb20634ee964c9980743c0.png";
+import imgAngry from "../assets/angry.png";
+import imgNeutral from "../assets/sad.png";
+import imgHappy from "../assets/happy.png";
 
 const MIN_VALUE = 0;
 const MAX_VALUE = 10000;
